@@ -1,0 +1,18 @@
+# dependências e cópias geradas
+node_modules/
+www/
+
+# APKs gerados (distribuir fora do git)
+apk-gerados/
+*.apk
+
+# build do Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/capacitor-cordova-android-plugins/build/
+android/app/src/main/assets/public/
+*.keystore
+*.jks
+.idea/

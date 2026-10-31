@@ -1,0 +1,9 @@
+{
+  "appId": "br.app.horapagapm",
+  "appName": "HORAS PAGA",
+  "webDir": "www",
+  "android": {
+    "adjustMarginsForEdgeToEdge": "force",
+    "backgroundColor": "#0b2545"
+  }
+}
